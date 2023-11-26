@@ -33,7 +33,7 @@
 |9:30| Checkout|
 |10:30-12:30| Royal Botanic Garden|
 |12:30 - 1:30| Basax if possible|
-
+|Flexible Time||
 |16：00| To Sydney Airport|
 
 Sight-Seeing
