@@ -58,14 +58,25 @@ Restaurant
 |Time|Location|
 |----|--------|
 |19:00| Arrive|
-|
+|20:00| Checkin|
+|20:30| Supper - Palermo| 
 
 
 **02-12**
 
 |Time|Location|
 |----|--------|
+|9:30-10:30|  Flinder Street Station|
+|10:30-11:00| St Paul's Cathedral + Hosier Lane|
+|11:30 - 12:30| Queen Victoria Market|
+|12:30 - 16:00| Spencer Outlet Center|
 |18:00|Catchup with Phillip|
+
+**03-12**
+|Time|Location|
+|----|--------|
+|Will find out when I get there|
+|15:30|airport|
 
 
 Shopping
